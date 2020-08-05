@@ -1,4 +1,4 @@
-import { extractArgTypes, extractComponentDescription } from './jsondoc';
+import { extractArgTypes, extractComponentDescription } from './doc';
 
 export const parameters = {
   docs: {
